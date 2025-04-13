@@ -47,9 +47,9 @@ Jot supports the following Markdown formatting options:
 
 ## Contact Support
 
-If you're experiencing issues not covered in this guide, please contact us:
+If you're experiencing issues not covered in this guide, please report them through the GitHub Issues section of our repository:
 
-Email: support@jotapp.com
+[Submit an Issue on GitHub](https://github.com/LarryAlexander/jot-support/issues)
 
 When reporting an issue, please include:
 1. Your device model and iOS version
@@ -59,7 +59,7 @@ When reporting an issue, please include:
 
 ## Privacy Policy
 
-Jot respects your privacy. We do not collect personal data beyond what's necessary for app functionality. For more details, please visit our [Privacy Policy](https://www.jotapp.com/privacy).
+Jot respects your privacy. We do not collect personal data beyond what's necessary for app functionality.
 
 ## Updates
 
