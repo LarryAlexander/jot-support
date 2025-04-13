@@ -61,6 +61,8 @@ When reporting an issue, please include:
 
 Jot respects your privacy. We do not collect personal data beyond what's necessary for app functionality.
 
+For a comprehensive overview of our data practices, please read our full [Privacy Policy](privacy-policy.html).
+
 ## Updates
 
 Jot is continually improving. Make sure to keep your app updated to the latest version for the best experience and newest features.
